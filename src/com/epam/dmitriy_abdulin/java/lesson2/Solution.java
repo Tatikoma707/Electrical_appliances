@@ -38,8 +38,8 @@ public class Solution {
         System.out.print("\nTotal power consumption: ");
         Integer sumPower = 0;
         for (int i = 0; i < myList.size(); i++) {
-            if(myList.get(i).isStateOfDevice())
-                sumPower+=myList.get(i).getPower();
+            if (myList.get(i).isStateOfDevice())
+                sumPower += myList.get(i).getPower();
         }
         System.out.println(sumPower);
     }

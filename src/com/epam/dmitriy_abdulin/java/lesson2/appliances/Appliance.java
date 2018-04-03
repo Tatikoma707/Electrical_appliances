@@ -44,7 +44,7 @@ public class Appliance implements IAppliances, Cloneable {
         StringBuilder sb = new StringBuilder();
         sb.append(this.brandAppliances).append("(").append(this.typeOfDevice).append(" : ")
                 .append(this.powerOfDevice).append(" : ")
-                .append(this.isStateOfDevice()? "on" : "off").append(")");
+                .append(this.isStateOfDevice() ? "on" : "off").append(")");
         return sb.toString();
     }
 

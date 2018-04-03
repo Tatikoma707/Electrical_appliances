@@ -5,7 +5,7 @@ import java.util.Comparator;
 /**
  * Created by dima7 on 03.04.2018.
  */
-public class SortByState implements Comparator<IAppliances>{
+public class SortByState implements Comparator<IAppliances> {
     @Override
     public int compare(IAppliances o1, IAppliances o2) {
         if (!o1.isStateOfDevice() && o2.isStateOfDevice()) {
