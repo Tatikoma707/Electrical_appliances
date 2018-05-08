@@ -1,7 +1,5 @@
-package com.epam.dmitriy_abdulin.java.lesson2.appliances.MyList;
+package com.epam.dmitriy_abdulin.java.lesson2.appliances.utils;
 
-
-import com.epam.dmitriy_abdulin.java.lesson2.appliances.Appliance;
 
 /**
  * Created by dima7 on 03.04.2018.

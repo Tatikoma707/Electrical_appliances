@@ -1,4 +1,4 @@
-package com.epam.dmitriy_abdulin.java.lesson2.appliances;
+package com.epam.dmitriy_abdulin.java.lesson2.appliances.utils;
 
 import java.util.Comparator;
 

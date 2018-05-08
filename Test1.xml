@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appliance>
+    <brandAppliances>HP</brandAppliances>
+    <colorOfDevice>Black</colorOfDevice>
+    <location>Cabinet</location>
+    <powerOfDevice>500</powerOfDevice>
+    <stateOfDevice>false</stateOfDevice>
+    <typeOfDevice>COMPUTER</typeOfDevice>
+</appliance>
